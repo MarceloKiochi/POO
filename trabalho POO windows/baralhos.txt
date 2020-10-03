@@ -1,0 +1,9 @@
+6
+pokemon
+pokemon2
+pokemon3
+protagonistas
+CartasAleatorias
+Pessoinhas
+
+ralhoTeste
